@@ -1,0 +1,16 @@
+.navBardemoBasicUsage md-content .ext-content {
+  padding: 50px;
+  margin: 20px;
+  background-color: #FFF2E0; }
+
+.header{
+  display: flex;
+  flex-direction: column;
+  background-image: url("img/cafe.jpg");
+  background-size: cover;
+  height: 100%;
+  align-content: center;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
