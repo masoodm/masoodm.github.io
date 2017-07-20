@@ -705,6 +705,10 @@ button:hover {
   .btn-full-width:focus {
     color: white; }
 
+  #photoButton.btn-full-width {
+    background-color: #774040;
+  }
+
 .text-primary {
   color: #EF4035 !important; }
 
